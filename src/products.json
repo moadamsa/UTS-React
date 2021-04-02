@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "_id": "product1",
+      "image": "/images/product1.jpg",
+      "title": "MESIN CUCI 2 TABUNG DENPOO DW 1409 STANSLESS TAB BIG CAPACITY BLACK COLOR",
+      "description": "MESIN CUCI 2 TABUNG DENPOO DW 1409 STANSLESS TAB BIG CAPACITY BLACK COLOR kondisi baru dengan berat 1000 gram",
+      "specification": ["DW-1309 13KG (Drum Stainless SUS 304)", "Big Body & Capacity", "Double Drum Stainless Steel"],
+      "price": 2349000
+    },
+    {
+      "_id": "product2",
+      "image": "/images/product2.jpg",
+      "title": "MESIN CUCI 2 TABUNG DENPOO DW 1409 STANSLESS TAB BIG CAPACITY RED COLOR",
+      "description": "MESIN CUCI 2 TABUNG DENPOO DW 1409 STANSLESS TAB BIG CAPACITY BLACK COLOR kondisi baru dengan berat 1000 gram",
+      "specification": ["DW-1309 13KG (Drum Stainless SUS 304)", "Big Body & Capacity", "Double Drum Stainless Steel"],
+      "price": 2349000
+    },
+    {
+      "_id": "product3",
+      "image": "/images/product3.jpg",
+      "title": "Produk Mesin Cuci Denpoo DW 976 8 KG 2 TABUNG",
+      "description": "Produk Mesin Cuci Denpoo DW 976 8 KG 2 TABUNG kondisi baru dengan berat 1000 gram",
+      "specification": ["Single Pulsator dan Big Pulsator","Water Inlet","Water Cleaner Technology"],
+      "price": 1590000
+    },
+    {
+      "_id": "product4",
+      "image": "/images/product4.jpg",
+      "title": "MESIN CUCI DENPOO DW 828 4 P ( BIRU )",
+      "description": "MESIN CUCI DENPOO DW 828 4 P ( BIRU ) kondisi baru dengan berat 1000 gram",
+      "specification": ["Single Pulsator dan Big Pulsator","Water Inlet","Water Cleaner Technology"],
+      "price": 1299000
+    },
+    {
+      "_id": "product5",
+      "image": "/images/product5.jpg",
+      "title": "DENPOO MESIN CUCI MINI PORTABLE DW3 (3 KG)",
+      "description": "DENPOO MESIN CUCI MINI PORTABLE DW3 (3 KG) kondisi baru dengan berat 10.000 gram",
+      "specification": ["Bahan Plastik ABS","3kg Capacity","Tanpa Pengering"],
+      "price": 619000
+    },
+    {
+      "_id": "product6",
+      "image": "/images/product6.jpg",
+      "title": "DENPOO MESIN CUCI TOP LOADING ( 1 TABUNG ) DWF 073 HT",
+      "description": "DENPOO MESIN CUCI TOP LOADING ( 1 TABUNG ) DWF 073 HT kondisi baru dengan berat 10.000 gram",
+      "specification": ["Stainless Steel Inner Tub","Anti Bacteria","Water Cleaner Technology"],
+      "price": 1799000
+    },
+    {
+      "_id": "product7",
+      "image": "/images/product7.jpg",
+      "title": "MESIN CUCI TOP LOADING ( 1 TABUNG ) DENPOO DWF 083 HT TABUNG STANLESS",
+      "description": "MESIN CUCI TOP LOADING ( 1 TABUNG ) DENPOO DWF 083 HT TABUNG STANLESS kondisi baru dengan berat 10.000 gram",
+      "specification": ["Washing Machine Full Auto","Anti Bacteria","Stainless Steel Inner Tub"],
+      "price": 1959000
+    },
+    {
+      "_id": "product8",
+      "image": "/images/product8.jpg",
+      "title": "Mesin Cuci semi auto 2 Tabung DENPOO Dw 8308 4P",
+      "description": "Mesin Cuci semi auto 2 Tabung DENPOO Dw 8308 4P kondisi baru dengan berat 10.000 gram",
+      "specification": ["Twin Tub","Water Cleaner Technology","Auto Soak"],
+      "price": 1175000
+    },
+    {
+      "_id": "product9",
+      "image": "/images/product9.jpg",
+      "title": "Mesin Cuci 2 Tabung DENPOO MULTI PULSATOR ( 4 P )DW 898",
+      "description": "Mesin Cuci 2 Tabung DENPOO MULTI PULSATOR ( 4 P )DW 898 kondisi baru dengan berat 10.000 gram",
+      "specification": ["4 Pulsator","Water Inlet","Anti Bacteria"],
+      "price": 1175000
+    },
+    {
+      "_id": "product10",
+      "image": "/images/product10.jpg",
+      "title": "Produk Mesin Cuci Denpoo DW 976 8 KG 2 TABUNG",
+      "description": "Produk Mesin Cuci Denpoo DW 976 8 KG 2 TABUNG kondisi baru dengan berat 10.000 gram",
+      "specification": ["Single Pulsator dan Big Pulsator","Water Inlet","Water Cleaner Technology"],
+      "price": 1590000
+    },
+    {
+      "_id": "product11",
+      "image": "/images/product11.jpg",
+      "title": "Denpoo Mesin Cuci DWF 093 HT TOP LOADING Green Color",
+      "description": "Denpoo Mesin Cuci DWF 093 HT TOP LOADING Black Color kondisi baru dengan berat 50.000 gram",
+      "specification": ["Stainless Steel Inner Tub","Anti Bacteria","7 Kg Capacity"],
+      "price": 1899000
+    },
+    {
+      "_id": "product12",
+      "image": "/images/product12.jpg",
+      "title": "Denpoo Mesin Cuci DWF 093 HT TOP LOADING Black Color",
+      "description": "Denpoo Mesin Cuci DWF 093 HT TOP LOADING Black Color kondisi baru dengan berat 50.000 gram",
+      "specification": ["Stainless Steel Inner Tub","Anti Bacteria","7 Kg Capacity"],
+      "price": 1899000
+    }
+  ]
+}

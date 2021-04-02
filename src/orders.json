@@ -1,0 +1,8 @@
+{"_id":"fPPnVGob1",
+    "name":"adam",
+    "email":"adam112@gmail.com",
+    "address":"malang",
+    "cartItems":[{"_id":"product3","title":"Produk Mesin Cuci Denpoo DW 976 8 KG 2 TABUNG","price":1590000,"count":2},{"_id":"product8","title":"Mesin Cuci semi auto 2 Tabung DENPOO Dw 8308 4P","price":1175000,"count":5},{"_id":"product2","title":"MESIN CUCI 2 TABUNG DENPOO DW 1409 STANSLESS TAB BIG CAPACITY RED COLOR","price":2349000,"count":1}],
+    "total":11404000,
+    "createdAt":{"$date":"2021-04-02T13:56:20.126Z"},
+    "updatedAt":{"$date":"2021-04-02T13:56:20.126Z"},"__v":0}
